@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+		<trackList>
+			<track>
+				<location>file:///home/rico/Vid/Shaft 2019.mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>0</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Justice League- Fatal Five 2019.mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Classics Summarized Dante's Inferno.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>2</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/WP_20160417_005.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>3</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/I Am Mother (2019).mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>4</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Animation controller.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>5</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/New &amp; improved Vruzend V2.1 no-weld 18650 kit.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>6</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/UV Map.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>7</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/UV Map02.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>8</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Wireless Light Switch.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>9</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Shazam 2019.mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>10</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Networking in Unity5.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>11</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/How to Train Your Dragon The Hidden World 2019 .mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>12</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/RAIN v2.1 Quick Start- Sample Project and Character Rigging in less than 15 mins - YouTube.MP4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>13</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Bill burr guns.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>14</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Blender.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>15</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/VID-20170107-WA0000.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>16</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/firebaseImage.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>17</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/i_see_fire_ed_sheeran_cover_by_alice_olivia_the_hobbit_the_desolation_of_sm (1).mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>18</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/The Extreme Physics Pushing Moore’s Law to the Next Level.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>19</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Brave.2012.720p.BluRay.x264.YIFY.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>20</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/VID-20161203-WA0004.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>21</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Bill Burr3.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>22</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Hard surface.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>23</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/PLC.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>24</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/blender game.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>25</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/WP_20160426_003.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>26</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/LEGO.DC.Batman.Family.Matters.2019.720p.WEBRip.800MB.x264-GalaxyRG.mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>27</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/6dof joystick.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>28</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Bill Burr.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>29</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Next Gen.mkv.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>30</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/LIghting.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>31</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Next generation reusable rockets - Xodiac and XaeroB.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>32</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Dumbo 2019.mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>33</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Justin Bieber - Sorry %28PURPOSE - The Movement%29.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>34</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Dave Chappelle Sticks And Stones 2019.mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>35</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Making an advanced Terrain in Unity3D - WorldMachine - YouTube.MP4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>36</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Joker_(2019)_HDRip_high_(fzmovies.net)_58f6c61592f3b3fb3a6925e6d66e3ffa.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>37</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Carlos Mencia Not For The Easily Offend [FULL STAND UP] (HD).webm</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>38</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Classics Summarized Paradise Lost.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>39</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Classics Summarized Dante's Purgatorio.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>40</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Gemini man 2019.mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>41</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Death Stranding Inside Kojima Productions.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>42</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Ozzy Man Reviews Bangkok Airport Security.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>43</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Augmented reality vuforia unity.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>44</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/FireBase.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>45</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Imperium.2016.HDRip.XViD-ETRG.avi</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>46</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/VID-20191119-WA0005.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>47</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Classics Summarized Dante's Paradiso.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>48</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Bill Burr2.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>49</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Home-made Solar Tracking System with no electronics for solar panel or solar oven.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>50</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Are Aerospikes Better Than Bell Nozzles.webm</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>51</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/PLC INTRO.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>52</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Quantum.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>53</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/How to Make an Electric Go Kart.mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>54</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Avengers End Game 2019.mkv</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>55</vlc:id>
+				</extension>
+			</track>
+			<track>
+				<location>file:///home/rico/Vid/Kevin_Harts_Guide_to_Black_History_(2019)_WEBRip_high_(fzmovies.net).mp4</location>
+				<duration> 0 </duration>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>56</vlc:id>
+				</extension>
+			</track>
+		</trackList>
+		<extension application = "http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+			<vlc:item tid="11"/>
+			<vlc:item tid="12"/>
+			<vlc:item tid="13"/>
+			<vlc:item tid="14"/>
+			<vlc:item tid="15"/>
+			<vlc:item tid="16"/>
+			<vlc:item tid="17"/>
+			<vlc:item tid="18"/>
+			<vlc:item tid="19"/>
+			<vlc:item tid="20"/>
+			<vlc:item tid="21"/>
+			<vlc:item tid="22"/>
+			<vlc:item tid="23"/>
+			<vlc:item tid="24"/>
+			<vlc:item tid="25"/>
+			<vlc:item tid="26"/>
+			<vlc:item tid="27"/>
+			<vlc:item tid="28"/>
+			<vlc:item tid="29"/>
+			<vlc:item tid="30"/>
+			<vlc:item tid="31"/>
+			<vlc:item tid="32"/>
+			<vlc:item tid="33"/>
+			<vlc:item tid="34"/>
+			<vlc:item tid="35"/>
+			<vlc:item tid="36"/>
+			<vlc:item tid="37"/>
+			<vlc:item tid="38"/>
+			<vlc:item tid="39"/>
+			<vlc:item tid="40"/>
+			<vlc:item tid="41"/>
+			<vlc:item tid="42"/>
+			<vlc:item tid="43"/>
+			<vlc:item tid="44"/>
+			<vlc:item tid="45"/>
+			<vlc:item tid="46"/>
+			<vlc:item tid="47"/>
+			<vlc:item tid="48"/>
+			<vlc:item tid="49"/>
+			<vlc:item tid="50"/>
+			<vlc:item tid="51"/>
+			<vlc:item tid="52"/>
+			<vlc:item tid="53"/>
+			<vlc:item tid="54"/>
+			<vlc:item tid="55"/>
+			<vlc:item tid="56"/>
+		</extension>
+</playlist>
