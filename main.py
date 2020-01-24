@@ -18,29 +18,15 @@ class Item(GObject.GObject):
 class Main:
 
     def __init__(self):
-        # print('go')
-        # item1 = Item()
-        # item1.text = "Hello"
-        # item2 = Item()
-        # item2.text = "World"
 
         gladeFile = "main2.glade"
         self.builder = gtk.Builder()
         self.builder.add_from_file(gladeFile)
         self.builder.connect_signals(self)
 
-        # button = self.builder.get_object("button")
-        # button.connect("clicked",self.prnt)
-
         window = self.builder.get_object("Main")
         window.connect("delete-event", gtk.main_quit)
         window.show()
-
-    # def prnt(self, widget):
-    #     inputB = self.builder.get_object("inputB")
-    #     inp = inputB.get_text().strip()
-    #     print(inp)
-    #     inputB.set_text("Yo!!!!!!")
 
     def create_widget_func(self, item):
         label = gtk.Label(item.text)
@@ -48,14 +34,11 @@ class Main:
 
     def createPlaylist(self, widget):
 
-        inputV = self.builder.get_object("inputV")
-        inputM = self.builder.get_object("inputM")
+        inputV = self.builder.get_object("inputV")  # filepicker for Videos
+        inputM = self.builder.get_object("inputM")  # filepicker for music
         listbox = self.builder.get_object("lstbox")
 
-        # liststore = Gio.ListStore()
         liststore = Gio.ListStore()
-        # liststore.append(item1)
-        # liststore.append(item2)
 
         inpv = inputV.get_filename()
         inpm = inputM.get_filename()

@@ -14,6 +14,8 @@ formats = [
 convt = []
 displayList = []
 
+# Add tabs to string
+
 
 def tab(num):
     i = num
@@ -24,28 +26,23 @@ def tab(num):
     return tbs
 
 
-lst = [
-    '<?xml version="1.0" encoding="UTF-8"?> \n',
-    '<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">\n',
-    tab(1)+'<title>Playlist</title>\n',
-    tab(2)+'<trackList>\n'
-]
+# Add track to plalist
 
 
 def track(loctn, id):
     # print(locn)
-    locn = escape(loctn)
+    locn = escape(loctn)  # escape XML invalid characters
     trck = tab(3)+'<track>\n'+tab(4)+'<location>file://'+locn+'</location>\n'+tab(4)+'<duration> 0 </duration>\n'+tab(4)+'<extension application="http://www.videolan.org/vlc/playlist/0">\n'+tab(5)+'<vlc:id>' + \
         str(id) + '</vlc:id>\n'+tab(4)+'</extension>\n'+tab(3)+'</track>\n'
     return trck
 
 
+# compare files in video and music folder create playlist and run in VLC
+
+
 def rez(video, music):
-    vid = []
-    muz = []
-    # vid_conv = []
-    # for fold in os.listdir(folder):
-    x = 0
+    vid = []  # Video list
+    muz = []  # Music list
     locatn = ""
 
     # find videos
@@ -54,9 +51,7 @@ def rez(video, music):
         name, file_extension = os.path.splitext(filename)
 
         if file_extension.upper() in formats:
-            # print('vid', name)
             vid.append(name + ':' + file_extension)
-            # vid_conv.append(name + file_extension)
 
     # find music
     for filename in os.listdir(music):
@@ -70,20 +65,23 @@ def rez(video, music):
     # compare both folders and list out unconverted vidoes
     for vd in vid:
         # print(vd)
-        # vd = vd['name']
         z = vd.split(':')
         # print(z[0])
         if z[0] not in muz:
             nm = video + '/' + z[0] + z[1]
-            print(z[0])
+            # print(z[0])
             convt.append(nm)
             displayList.append('' + z[0] + z[1])
 
-    # print('m', muz)  # len(muz))
-    # print('v', len(vid))
-
     # create vlc plalist
     with open('list.xspf', 'w') as file:
+        lst = [
+            '<?xml version="1.0" encoding="UTF-8"?> \n',
+            '<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">\n',
+            tab(1)+'<title>Playlist</title>\n',
+            tab(2)+'<trackList>\n'
+        ]
+
         file.writelines(lst)
         i = 0
         for vd in convt:
@@ -102,19 +100,6 @@ def rez(video, music):
         return displayList
 
 
-def trim(folder):
-    n = 0
-    for filename in os.listdir(folder):
-        print(filename)
-        if len(filename) > 19:
-            print(len(filename))
-            os.remove(folder+'/'+filename)
-
-
-# rez("/home/rico/Vid/Anime/Music/New folder")
-# rez("/home/rico/Vid/Anime/Music")
-# rez(sys.argv[1])
-
 if __name__ == "__main__":
     while 1:
         vid = input("Enter your video folder path or type exit to close: ")
@@ -128,30 +113,3 @@ if __name__ == "__main__":
             except Exception as e:
                 print('Error')
                 raise
-
-
-#gtk = gi.repository.Gtk
-
-
-# class Main:
-#     def __init__(self):
-#         # print('go')
-#         gladeFile = "main.glade"
-#         self.builder = gtk.Builder()
-#         self.builder.add_from_file(gladeFile)
-#         self.builder.connect_signals(self)
-
-#         # button = self.builder.get_object("button")
-#         # button.connect("clicked",self.prnt)
-
-#         window = self.builder.get_object("Main")
-#         window.connect("delete-event",gtk.main_quit)
-#         window.show()
-
-#     def prnt(self, widget):
-#         print("Yooo!!!!")
-
-
-# if __name__ == '__main__':
-#     main = Main()
-#     gtk.main()
