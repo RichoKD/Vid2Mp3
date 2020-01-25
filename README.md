@@ -1,12 +1,89 @@
-# Vid2Mp3
+# Heading 1
 
-Compares your video and music folders to generate a VLC(™) playlist based on their difference after which you can convert to mp3 in VLC player(™)
+## Heading 2
 
-Clone the repo and run python main.py
+### Heading 3
 
-# Requires:
+#### Heading 4
 
-VLC player(™) to play Videos and convert to mp3
-https://www.videolan.org/vlc
-Glade(C) editor version 3 and above for the editing the UI
-http://glade.gnome.org
+##### Heading 5
+
+###### Heading 6
+
+<!-- Ttalics -->
+
+_This is_ Italian
+\*escape\*
+
+<!-- Strong -->
+
+**This is** Italian
+
+<!-- Strickethrough -->
+
+~~This is~~ Strickethrough
+
+<!-- Horizontal rule -->
+
+---
+
+<!-- Blockquote -->
+
+> This is a quote
+
+<!-- link -->
+
+[My Link](https://google.com)
+
+<!-- UL -->
+
+- Item 1
+- Item 2
+  - Nested 1
+
+<!-- OL -->
+
+1. Item 1
+1. Item 2
+
+<!-- Inline Code Block -->
+
+`<p>This is a paragraph</p>`
+
+<!-- Images -->
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+<!-- Github Markdown -->
+
+<!-- Code Blocks -->
+
+```bash
+    npm install
+
+    npm start
+```
+
+```javascript
+function add(num1, num2) {
+  return num1 + num2;
+}
+```
+
+```python
+    def add(num1,num2):
+        return num1 + num2
+```
+
+<!-- Tables -->
+
+| Name | Email          |
+| ---- | -------------- |
+| Rico | jk@gmail.com   |
+| jake | jake@yahoo.com |
+
+<!-- Task lists -->
+
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
