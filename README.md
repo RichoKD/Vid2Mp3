@@ -1,89 +1,17 @@
-# Heading 1
+# Vid2Mp3
 
-## Heading 2
+Compares your video and music folders to generate a VLC(™) playlist based on their difference after which you can convert to mp3 in VLC
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<!-- Ttalics -->
-
-_This is_ Italian
-\*escape\*
-
-<!-- Strong -->
-
-**This is** Italian
-
-<!-- Strickethrough -->
-
-~~This is~~ Strickethrough
-
-<!-- Horizontal rule -->
-
----
-
-<!-- Blockquote -->
-
-> This is a quote
-
-<!-- link -->
-
-[My Link](https://google.com)
-
-<!-- UL -->
-
-- Item 1
-- Item 2
-  - Nested 1
-
-<!-- OL -->
-
-1. Item 1
-1. Item 2
-
-<!-- Inline Code Block -->
-
-`<p>This is a paragraph</p>`
-
-<!-- Images -->
-
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
-
-<!-- Github Markdown -->
-
-<!-- Code Blocks -->
+Clone the repo and run
 
 ```bash
-    npm install
-
-    npm start
+    python main.py
 ```
 
-```javascript
-function add(num1, num2) {
-  return num1 + num2;
-}
-```
+> Works with Python2 and 3
 
-```python
-    def add(num1,num2):
-        return num1 + num2
-```
+## Requires:
 
-<!-- Tables -->
+[VLC media player(™)](https://www.videolan.org/vlc) to play Videos and convert to mp3
 
-| Name | Email          |
-| ---- | -------------- |
-| Rico | jk@gmail.com   |
-| jake | jake@yahoo.com |
-
-<!-- Task lists -->
-
-- [x] Task 1
-- [x] Task 2
-- [ ] Task 3
+[Glade(C)](http://glade.gnome.org) editor version 3 and above for the editing the UI
